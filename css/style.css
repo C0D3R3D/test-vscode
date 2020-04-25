@@ -14,3 +14,7 @@ body div {
   font-size: 15px;
   min-width: 20%;
 }
+
+.block__item {
+  background-color: #ff0000;
+}
